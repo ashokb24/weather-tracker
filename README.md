@@ -16,7 +16,7 @@ SpringBoot
 - I would advise you to go through the API documentation first, understand what Accuweather provides that suits your need.
 - For my sample application, I wanted to understand on how can I get the current weather condition of a particular city or for a particular postcode. Hence, I have experimented CurrentConditionAPI.
 - Likewise, you can experiment ForecastAPI, IndicesAPI, WeatherAlarms API.
-- Accuweather has another API called LocationAPI. This API helps us to get a locationKey for a particular location. This locationKey has to be retrieved before invoking other APIs.
+- Accuweather has another API called LocationAPI. This API helps us to get a locationKey for a particular location. This locationKey has to be retrieved before invoking other APIs. LocationAPIKey has to be passed as a Pathvariable in most Accuweather API GET calls.
 
 
 ## Authorization 
