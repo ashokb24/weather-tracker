@@ -23,4 +23,7 @@ SpringBoot
 - Whilst Accuweather provides number of APIs, it has Protected all its APIs. 
 - Accuweather API has a fair ask of sending the APIKey in the request param to prove the authenticity of its consumers. 
 - Hence, we will have to create a account with Accuweather followed by there is a need to create a APP. 
+- By creating Accuweather APP, you will be assigned a API Key. This APIKey will have to be used in all the Accuweather API request as a queryParam.
+
+## Accuweather Pricing
 - Accuweather has got a pricing model as well to address the customer needs. Please refer to this page https://developer.accuweather.com/packages and chose the appropriate plan. As my project was for a POC and self-learning purpose, I have chosen standard free tariff which will enable free 50 API calls/day.
