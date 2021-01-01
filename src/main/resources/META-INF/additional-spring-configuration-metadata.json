@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "locationapi.endpoint.url",
+    "type": "java.lang.String",
+    "description": "A description for 'locationapi.endpoint.url'"
+  },
+  {
+    "name": "accuweather.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'accuweather.api.key'"
+  }
+]}
